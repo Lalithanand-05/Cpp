@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1602317147 source:d:\elelction\main.cpp
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<time.h>
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+
