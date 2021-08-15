@@ -1,5 +1,4 @@
-//Election Management System
-//Author: Lalith Sagar J
+
 //oop project
 #include<fstream>
 #include <cstdlib>
